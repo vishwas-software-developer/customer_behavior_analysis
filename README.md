@@ -47,12 +47,15 @@ Power BI
 Gamma AI (Presentation)
 Microsoft Excel
 Git & GitHub
+
 📊 Project Workflow
+
 1. Data Loading
 Imported the dataset using Pandas.
 Verified data types and structure.
 Loaded the dataset into Python for analysis.
-2. Exploratory Data Analysis (EDA)
+
+3. Exploratory Data Analysis (EDA)
 
 Performed analysis to understand the dataset including:
 
@@ -66,6 +69,7 @@ Correlation analysis
 Outlier detection
 Category-wise analysis
 Customer demographics
+
 3. Data Cleaning
 
 Data preprocessing included:
@@ -76,6 +80,7 @@ Correcting data types
 Standardizing column names
 Creating derived columns (Age Groups, Revenue Metrics, etc.)
 Preparing clean data for SQL and Power BI
+
 4. SQL Analysis
 
 Imported the cleaned dataset into PostgreSQL/MySQL/SQL Server and performed business analysis using SQL.
@@ -98,6 +103,7 @@ Common Table Expressions (CTEs)
 Ranking Queries
 Aggregate Functions
 Business KPI Queries
+
 5. Power BI Dashboard
 
 Created an interactive dashboard to visualize business performance.
@@ -114,6 +120,7 @@ Customer Distribution
 Payment Method Breakdown
 Discount Usage
 Interactive Filters and Slicers
+
 6. Report Preparation
 
 Prepared a business report summarizing:
@@ -125,6 +132,7 @@ SQL analysis
 Dashboard insights
 Business recommendations
 Key findings
+
 7. Presentation
 
 Created a professional presentation using Gamma AI covering:
@@ -187,6 +195,7 @@ Customer-Shopping-Behavior-Analysis/
 │   └── Dashboard_Screenshots
 │
 └── README.md
+
 ▶️ How to Run
 1. Clone the repository
 git clone https://github.com/your-username/customer-shopping-behavior-analysis.git
