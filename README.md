@@ -228,7 +228,7 @@ This project demonstrates the complete end-to-end data analytics workflow by com
 
 👨‍💻 Author
 
-Vishwas Achar
+Vishwas L Achar
 
 Data Analytics Enthusiast
 Python | SQL | Power BI | Excel
